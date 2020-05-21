@@ -1,7 +1,9 @@
-Global CDN -- Theme of Fikker CDN Sys
+Global CDN -- Theme of Fikker CDN Sys 
 -------------------------------------
 
 **Built for Fikker CDN Windows Main Control Panel**
+
+Last updated on: 05/21/2020
 
 1. Find the path of the fikker system installation root directory.
 
@@ -23,6 +25,6 @@ Global CDN -- Theme of Fikker CDN Sys
 
 i. Admin Control Panel (/admin)
 
-ii. Customer Conttol Panel (/cdn)
+ii. Customer Control Panel (/cdn)
 
 iii. Payment Environment Configuration (/config)
