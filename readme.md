@@ -11,7 +11,7 @@ Last updated on: 05/29/2020
 
 **Directory Modification Description**
 
-*Home Page File （theme v2 -v2）*
+*Home Page File （theme v2 -vison 2）*
 
 /index.html --- Default
 
